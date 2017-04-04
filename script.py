@@ -1,3 +1,9 @@
+"""
+	Author: Xavid Ramirez
+	Desc: Bot to crawl onto linkedin and send out invitations to
+		  users based on search criteria. To be used for educational
+		  purposes when developing crawlers dealing with hidden elements.
+"""
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By 
